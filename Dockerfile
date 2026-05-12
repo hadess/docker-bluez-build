@@ -40,6 +40,7 @@ RUN apt-get update && \
 		libtool \
 		libudev-dev \
 		libxml2-dev \
+		meson \
 		openssl \
 		patch \
 		pkg-config \
